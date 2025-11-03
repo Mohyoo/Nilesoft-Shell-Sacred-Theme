@@ -1,6 +1,6 @@
 ## Nilesoft Shell - The Sacred Theme
 A beautiful theme for a beautiful shell
-![Screenshot](preview.png)
+![Screenshot](Preview.png)
 
 ## Intallation
 Just download 'theme.nss' file and place it at the 'imports' folder inside your Nilesfot Shell's installation directory.
